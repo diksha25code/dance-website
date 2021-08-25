@@ -91,7 +91,7 @@
     margin-top: 10px;
     cursor: pointer;
     display: none;*/
-}
+
 #check{
     display: none;
 }
@@ -256,8 +256,8 @@ h1{
     width:750px;
     height:500px;
    /* padding: 2rem 1rem; */
-    justify-content:flex-start
-     background: #fff;
+    justify-content:flex-start;
+    background: #fff;
     position: relative;
     align-items: flex-end;
     box-shadow:0px 7px 10px rgba(0,0,0,0.5);
@@ -513,12 +513,12 @@ transform: translateY(20px);
 .contact .text-center{
     display: inline-block;
     text-align: center;
-    align: center;
+    
     justify-content: center;
 
 }
 .form1{
-    align:left;
+    
     padding:50px;
     margin-top: 20%;;
     position: left;
